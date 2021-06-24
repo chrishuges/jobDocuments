@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.17)  24 JUN 2021 12:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.17)  24 JUN 2021 12:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -321,67 +321,67 @@ LaTeX Info: Redefining \nameref on input line 21.
 \openout3 = `chrisHughesCurriculumVitae.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 42.
+(Font)              <10.95> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 42.
+(Font)              <8> on input line 44.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 42.
+(Font)              <6> on input line 44.
 
-Overfull \hbox (4.55098pt too wide) in paragraph at lines 57--59
+Overfull \hbox (4.55098pt too wide) in paragraph at lines 60--62
 []\OT1/cmr/m/n/10.95 Highly skilled in the ap-pli-ca-tion of pro-teomics, metabolomics, and DNA/RNA
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--71
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
 
  []
 
 [2
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 []|\OT1/cmr/bx/n/10.95 Publication num-ber: \OT1/cmr/m/n/10.95 WO2015118152A1, US20170074869A1,
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 154.
+(Font)              <5> on input line 157.
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 174--180
+Underfull \hbox (badness 10000) in paragraph at lines 177--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--187
+Underfull \hbox (badness 10000) in paragraph at lines 184--190
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--194
+Underfull \hbox (badness 10000) in paragraph at lines 191--197
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 210.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 213.
 [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 210.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 213.
  (c:/Users/chughes/Documents/bccrc/jobDocuments/chrisHughesCurriculumVitae.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 210.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 210.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 213.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 213.
 Package rerunfilecheck Info: File `chrisHughesCurriculumVitae.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 210.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 213.
  )
 (\end occurred inside a group at level 5)
 
-### simple group (level 5) entered at line 149 ({)
-### simple group (level 4) entered at line 136 ({)
-### simple group (level 3) entered at line 117 ({)
-### simple group (level 2) entered at line 104 ({)
-### simple group (level 1) entered at line 81 ({)
+### simple group (level 5) entered at line 152 ({)
+### simple group (level 4) entered at line 139 ({)
+### simple group (level 3) entered at line 120 ({)
+### simple group (level 2) entered at line 107 ({)
+### simple group (level 1) entered at line 84 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  7502 strings out of 480876
@@ -392,10 +392,10 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  47i,12n,56p,399b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on c:/Users/chughes/Documents/bccrc/jobDocuments/chrisHughesCurriculumVitae.pdf (5 pages, 106443 bytes).
+Output written on c:/Users/chughes/Documents/bccrc/jobDocuments/chrisHughesCurriculumVitae.pdf (5 pages, 106495 bytes).
 PDF statistics:
- 72 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 73 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
